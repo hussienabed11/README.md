@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Hussein Abed
 
-## 👨‍💻 Odoo Developer | Python & ORM | Custom Modules, Wizards & Views
+## Odoo Developer | Python & ORM | Custom Modules, Wizards & Views
 
 📍 Location: Egypt
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
-[Portfolio](https://yourportfolio.com)
+[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hussien-abed-wep11/))
+[Portfolio]((https://hussien-abed.vercel.app/#))
+[Portfolio](https://www.youtube.com/@hussienabed-dev)
 
 ---
 
