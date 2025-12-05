@@ -2,11 +2,11 @@
 
 ## Odoo Developer | Python & ORM | Custom Modules, Wizards & Views
 
-📍 Location: Egypt
+📍 Location: Alexandria
 
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hussien-abed-wep11/))
-[Portfolio]((https://hussien-abed.vercel.app/#))
-[Portfolio](https://www.youtube.com/@hussienabed-dev)
+[LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hussien-abed-wep11/)
+[Portfolio](https://hussien-abed.vercel.app/#)
+[youtube](https://www.youtube.com/@hussienabed-dev)
 
 ---
 
