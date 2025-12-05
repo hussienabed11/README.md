@@ -19,8 +19,62 @@
 ---
 
 ## 📂 Projects & Skills
-- Custom Odoo Modules (Courses Manager, Advanced Courses)
-- Computed fields, Inverse, Onchange, Constraints
-- Form & Tree Views, Wizards, Menus, Actions
-- Security & Access control (ir.model.access.csv)
-- Business Logic Implementation & Pricing Rules
+## Skills
+
+### Odoo Fundamentals
+- Community & Enterprise setup, DB configuration
+- Module structure, terminal commands, folder organization
+
+### Models & Fields
+- Regular, Transient, Abstract models
+- Relational fields: Many2one, One2many, Many2many
+- Domains & error handling
+
+### ORM & Data Operations
+- CRUD operations: create, write, unlink, search, copy
+- Computed fields (store & non-store), inverse functions, depends
+- Onchange decorators (including M2O & M2M)
+
+### Views & UI
+- Tree, Form, Kanban, Search Views
+- Widgets, Chatter integration, Alerts
+
+### Wizards & Actions
+- Transient models, server actions, URL actions
+- Buttons with domain logic
+
+### Business Logic & Decorators
+- Validation, @api decorators, ondelete behavior
+
+### Security & Access Control
+- Access rights, record rules, DB security
+
+### Automation & Communication
+- Mail templates, cron jobs, activities, approval systems
+
+### Reporting
+- PDF, HTML, Excel reports, badges
+
+### Technical Skills
+- XML, CSS, JavaScript integration
+- API & External integrations (REST, XML-RPC)
+- Git & Odoo.sh
+
+## Projects
+
+1. **Courses Management Module**  
+   - Used computed fields and onchange decorators  
+   - Custom views (tree, form, kanban)  
+   - Security rules & access control implemented  
+   [View on GitHub](link)
+
+
+## My Approach
+
+- I always start by planning models and relations before coding.
+- I implement business logic with proper validation and security rules.
+- All views and actions are user-friendly and integrated with Odoo's workflow.
+- I test modules on a real Odoo server and use Git for version control.
+
+
+
